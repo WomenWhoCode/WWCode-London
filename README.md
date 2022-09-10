@@ -88,8 +88,14 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 
 ## About Women Who Code
 
-WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
+WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](https://womenwhocode.com) and sign up to become a member.
  <br>
+
+## Mentorship Programme
+Mentorship is a fantastic way to get support for your personal growth and career development. 
+For mentors, it is a meaningful way of giving back and making a contribution. 
+
+See all details about the program [here](https://wwcode-mentorship.carrd.co).
 
 ## Code of Conduct
 
