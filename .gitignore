@@ -7,7 +7,7 @@
 *.code-workspace
 # Local History for Visual Studio Code
 .history/
- 
+
 # Common credential files
 **/credentials.json
 **/client_secrets.json
@@ -16,6 +16,8 @@
 *.dat
 *password*
 *.httr-oauth*
- 
+
 # Mac/OSX
 .DS_Store
+
+*.idea*
