@@ -6,6 +6,7 @@
     - [Recent events:](#recent-events)
 - [About Women Who Code](#about-women-who-code)
 - [Code of Conduct](#code-of-conduct)
+- [Mentorship Programme](#mentorship-programme)
 - [Contributing](#contributing)
 - [Credits](#credits)
 
@@ -18,24 +19,22 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
 💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
 **If you're interested in joining the community as a member or volunteer please visit our [website](https://www.womenwhocode.com/london) for more information.**
- <br>
+
 
 ## Social
 
 Join our community conversations!
 
-[Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
-[Twitter](https://twitter.com/WWCodeLondon)  
-[Facebook](https://www.facebook.com/wwcodelondon/)
-[LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
- <br>
+* [Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
+* [Twitter](https://twitter.com/WWCodeLondon)  
+* [Facebook](https://www.facebook.com/wwcodelondon/)
+* [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
 
 ## Event Resources
 
 See below to find all the resources shared during past and upcoming events. You will also find a link to resources related to the event. All recorded events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please note all events are not recorded. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
 To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
- <br>
 
 #### Recent events:
 
@@ -55,10 +54,12 @@ How can you measure or define someone's personality? One way is to figure out wh
 
 - Can one be an extroverted introvert and vice versa?
 - Why do extroverts often have it easier?
-- How can the particular skills of introverts and extroverts be of use to achieve excellence?
+- How can the particular skills of introverts and extroverts be of use to achieve excellence? <br><br>
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Sumeyya Javaid and Rajani Rao</em></td>
+<em>- By Sumeyya Javaid and Rajani Rao</em>
+
+* [Slack #bookclub](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)
+</td>
 </tr>
 
 <!-- Volunteering Summit -->
@@ -68,10 +69,13 @@ How can you measure or define someone's personality? One way is to figure out wh
   <br><br>
 We are opening positions to help & grow with Women Who Code!
 
-We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you!
+We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you! <br><br>
+<em>- By Irina Kamalova</em>
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Irina Kamalova</em></td>
+* [Slides ??](SLIDE_LINK)
+* [Video Recording ?? ](VIDEO_LINK)   
+* [Slack #welcome_volunteers](https://wwcodelondon.slack.com/archives/C03N6PVU2EQ)
+</td>
 </tr>
 
 </tbody>
