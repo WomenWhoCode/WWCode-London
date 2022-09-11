@@ -54,10 +54,11 @@ How can you measure or define someone's personality? One way is to figure out wh
 
 - Can one be an extroverted introvert and vice versa?
 - Why do extroverts often have it easier?
-- How can the particular skills of introverts and extroverts be of use to achieve excellence? <br><br>
+- How can the particular skills of introverts and extroverts be of use to achieve excellence?
 
 <em>- By Sumeyya Javaid and Rajani Rao</em>
 
+* [Blog](https://www.womenwhocode.com/blog/quiet-book-club-wwcode-london)
 * [Slack #bookclub](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)
 </td>
 </tr>
@@ -72,8 +73,7 @@ We are opening positions to help & grow with Women Who Code!
 We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you! <br><br>
 <em>- By Irina Kamalova</em>
 
-* [Slides ??](SLIDE_LINK)
-* [Video Recording ?? ](VIDEO_LINK)   
+* [Blog](https://www.womenwhocode.com/blog/volunteer-for-women-who-code-london)
 * [Slack #welcome_volunteers](https://wwcodelondon.slack.com/archives/C03N6PVU2EQ)
 </td>
 </tr>
