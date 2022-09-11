@@ -39,10 +39,14 @@ If you have resources you would like to share from your event or resources you t
       <td colspan="3"><b>EVENT_TITLE</b> 
         <br><br>
              ** EVENT_DESCRIPTION **
-              [Slides & Materials](SLIDE_LINK), (MAT_LINK) <br/><br/>
-              [Video Recording](VIDEO_LINK)     <br/><br/>       
-        <br><br> 
-      <em>- SPEAKER_NAME & SPEAKER_TITLE </em></td>
+
+              <br><br>
+              <em>- SPEAKER_NAME & SPEAKER_TITLE </em>
+
+              * [Slides & Materials](SLIDE_LINK) 
+              * [Video Recording](VIDEO_LINK)    
+              * [Slack Channel](https://wwcodelondon.slack.com/archives/SLACK_CHANNEL_ID)
+         </td>
       </tr>
     ```
 
@@ -61,6 +65,8 @@ If you have resources you would like to share from your event or resources you t
     f) Update the `SLIDE_LINK` with url to slides (if speaker has shared) and `VIDEO_LINK` with the youtube url  
 
     g) Update the `SPEAKER_NAME` & `SPEAKER_TITLE`  
+    
+    h) Update the SLACK_CHANNEL_ID from Slack worspace
 
 
 
