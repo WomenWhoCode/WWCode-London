@@ -4,6 +4,7 @@
 - [Social](#social)
 - [Event Resources](#event-resources)
     - [Recent events:](#recent-events)
+- [Projects](#projects)
 - [About Women Who Code](#about-women-who-code)
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
@@ -18,24 +19,22 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
 💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
 **If you're interested in joining the community as a member or volunteer please visit our [website](https://www.womenwhocode.com/london) for more information.**
- <br>
+
 
 ## Social
 
 Join our community conversations!
 
-[Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
-[Twitter](https://twitter.com/WWCodeLondon)  
-[Facebook](https://www.facebook.com/wwcodelondon/)
-[LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
- <br>
+* [Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
+* [Twitter](https://twitter.com/WWCodeLondon)  
+* [Facebook](https://www.facebook.com/wwcodelondon/)
+* [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
 
 ## Event Resources
 
 See below to find all the resources shared during past and upcoming events. You will also find a link to resources related to the event. All recorded events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please note all events are not recorded. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
 To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
- <br>
 
 #### Recent events:
 
@@ -57,8 +56,10 @@ How can you measure or define someone's personality? One way is to figure out wh
 - Why do extroverts often have it easier?
 - How can the particular skills of introverts and extroverts be of use to achieve excellence?
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Sumeyya Javaid and Rajani Rao</em></td>
+<em>- By Sumeyya Javaid and Rajani Rao</em>
+* [Blog](https://www.womenwhocode.com/blog/quiet-book-club-wwcode-london)
+* [Slack #bookclub](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)
+</td>
 </tr>
 
 <!-- Volunteering Summit -->
@@ -68,10 +69,11 @@ How can you measure or define someone's personality? One way is to figure out wh
   <br><br>
 We are opening positions to help & grow with Women Who Code!
 
-We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you!
-
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
-<em>- By Irina Kamalova</em></td>
+We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you! <br><br>
+<em>- By Irina Kamalova</em>
+* [Blog](https://www.womenwhocode.com/blog/volunteer-for-women-who-code-london)
+* [Slack #welcome_volunteers](https://wwcodelondon.slack.com/archives/C03N6PVU2EQ)
+</td>
 </tr>
 
 </tbody>
@@ -81,10 +83,15 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 &nbsp;
 &nbsp;
 
+## Projects
+
+* [Mock Interview Behavioral](projects/mock-interview-behavioral/README.md)
+* [Mentorship Programme](projects/mentorship-programme/README.md)
+
 
 ## About Women Who Code
 
-WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
+WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](https://womenwhocode.com) and sign up to become a member.
  <br>
 
 ## Code of Conduct
