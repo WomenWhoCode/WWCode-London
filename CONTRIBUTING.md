@@ -66,7 +66,7 @@ If you have resources you would like to share from your event or resources you t
 
     g) Update the `SPEAKER_NAME` & `SPEAKER_TITLE`  
     
-    h) Update the SLACK_CHANNEL_ID from Slack worspace
+    h) Update the SLACK_CHANNEL_ID from Slack workspace
 
 
 
