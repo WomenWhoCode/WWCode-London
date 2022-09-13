@@ -8,8 +8,8 @@ See all details about the program in [wwcode-mentorship.carrd.co](https://wwcode
 
 ## Network
 * [Contact US](mailto:wwcodelondon.mentorship@gmail.com)
-* [Slack #mentees_2022](https://wwcodelondon.slack.com/archives/C040CS80GPM)
-* [Slack #mentors_2022](https://wwcodelondon.slack.com/archives/C040D0178SE)
+* [Slack channel mentees](https://wwcodelondon.slack.com/archives/C040CS80GPM)
+* [Slack channel mentors](https://wwcodelondon.slack.com/archives/C040D0178SE)
 
 
 ## Resources
