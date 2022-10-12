@@ -4,7 +4,6 @@
 - [Social](#social)
 - [Event Resources](#event-resources)
     - [Recent events:](#recent-events)
-- [Programs](#programs)
 - [About Women Who Code](#about-women-who-code)
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
@@ -111,10 +110,6 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 &nbsp;
 &nbsp;
 
-## Programs
-
-* [Mock Interview Behavioral](resources/mock-interviews/mock-behavioral-interview/README.md)
-
 ## About Women Who Code
 
 WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
@@ -130,7 +125,6 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 
 We welcome your contributions! :two_hearts: To contribute to this repo, follow the [contributing guidelines](CONTRIBUTING.md)
 
-
 ## Community
 
 ### Programs
@@ -141,11 +135,9 @@ The Women Who Code London community succesfully runs multiple programs to suppor
 
 If you are interested in a particular area of tech, get in touch with our special interest groups, where you will meet like-minded professionals to access insights and expertise. Please refer to the details in our [community guide](community.md).
 
-### Other Volunteering Opporuities
+### Other Volunteering Opportunities
 
 We are always looking for new volunteers. If you are interested in volunteering for the community, please refer to the available opportunities in the [community guide](community.md).
-
-
 
 ## Credits
 
