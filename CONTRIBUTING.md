@@ -6,7 +6,7 @@ Firstly thanks for your contributions!!! :sparkling_heart::sparkling_heart:
 
 If you have resources you would like to share from your event or resources you think our community would benefit from keep reading!
 
-## Pre-Reqs
+## PRE-REQUISITE
 
 1. 📖 Read up on fork & pull request models
 2. 🍴 Fork this repo to your account
@@ -16,8 +16,6 @@ If you have resources you would like to share from your event or resources you t
 6. 🔧 Send a pull request from your fork's branch to our `main` branch
 7. 🎉 Get your pull request approved - success!
 
-
----
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
 **1.** Start by making a Fork of the [**WWCode-London**](https://github.com/WomenWhoCode/WWCode-London) repository. Click on the <a href="https://github.com/WomenWhoCode/WWCode-London/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
@@ -62,17 +60,12 @@ git merge upstream/main
 **7.** Make your changes to the source code.
 
 **8.** Stage your changes and commit:
-
-⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
-
-⚠️ **Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
-
 ```bash
-git add public
+git add <file/folder>
 ```
 
 ```bash
-git commit -m "<your_commit_message>"
+git commit 
 ```
 
 **9.** Push your local commits to the remote repository:
@@ -87,30 +80,7 @@ git push origin YourBranchName
 
 **_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
----
 
-## Style Guide for Git Commit Messages :memo:
-
-**How you can add more value to your contribution logs:**
-
-- Use the present tense. (Example: "Add feature" instead of "Added feature")
-- Use the imperative mood. (Example: "Move item to...", instead of "Moves item to...")
-- Limit the first line (also called the Subject Line) to _50 characters or less_.
-- Capitalize the Subject Line.
-- Separate subject from body with a blank line.
-- Do not end the subject line with a period.
-- Wrap the body at _72 characters_.
-- Use the body to explain the _what_, _why_, _vs_, and _how_.
-
-
----
-## 💥 Issues
-
-In order to discuss changes, you are welcome to [open an issue](https://github.com/WomenWhoCode/WWCode-London/issues) about what you would like to contribute. Enhancements are always encouraged and appreciated.
-
-## All the best! 🥇
-
----
 ## Adding Event Resources
 
 1. If there is a github repository with code to share run the following in your terminal.
@@ -166,8 +136,9 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 
 ## Reporting issues OR suggesting changes/features to the existing repo:
 
-1. [Create An Issue](https://github.com/WomenWhoCode/WWCode-London/issues) with the details of the changes / new features that you think would benefit the community.
+1. In order to discuss changes, you are welcome to [open an issue](https://github.com/WomenWhoCode/WWCode-London/issues) about what you would like to contribute. Enhancements are always encouraged and appreciated.
 2. A repository owner will review the issue and provide feedback.
+## All the best! 🥇
 
 
 ## Adding New Program / Special Interest Group Resources
@@ -195,6 +166,19 @@ Here are some things you can do today to get started contributing:
 
 The `good first issue` label also indicates that Women Who Code - London Members have committed to providing extra assistance for new
 contributors.
+
+## Style Guide for Git Commit Messages :memo:
+
+**How you can add more value to your contribution logs:**
+
+- Use the present tense. (Example: "Add feature" instead of "Added feature")
+- Use the imperative mood. (Example: "Move item to...", instead of "Moves item to...")
+- Limit the first line (also called the Subject Line) to _50 characters or less_.
+- Capitalize the Subject Line.
+- Separate subject from body with a blank line.
+- Do not end the subject line with a period.
+- Wrap the body at _72 characters_.
+- Use the body to explain the _what_, _why_, _vs_, and _how_.
 
 ## Best practices
 
