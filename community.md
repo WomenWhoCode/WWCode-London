@@ -15,7 +15,7 @@ Most of the Women Who Code - London community activity is organized into 3 areas
 
 | Name | Label | Point of Contact | Slack |
 |------|-------|--------|---------|
-| Mentorship |[program/mentorship](https://github.com/WomenWhoCode/WWCode-London/labels/program%2Fmentorship)|* [Eleonora Belova](https://github.com/nora-weisser) |[#mentorship](https://wwcodelondon.slack.com/archives/CJ0S3FZK8)
+|[Mentorship](resources/mentorship/README.md) |[program/mentorship](https://github.com/WomenWhoCode/WWCode-London/labels/program%2Fmentorship)|* [Eleonora Belova](https://github.com/nora-weisser) |[#mentorship](https://wwcodelondon.slack.com/archives/CJ0S3FZK8)
 |[Mock Interviews](resources/mock-interviews/)|[program/mock-interviews](https://github.com/WomenWhoCode/WWCode-London/labels/program%2Fmock-interviews)|* Mock-Behavioral-Interview: [Bhawana Haritwal](https://github.com/bharitwal) | [#mock-interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 |Resume Clinic|[program/resume-clinic](https://github.com/WomenWhoCode/WWCode-London/labels/program%2Fresume-clinic)|* [Irina Kamalova](https://github.com/irenkamalova) |[#resume-clinic](https://wwcodelondon.slack.com/archives/C039W47EX9R)
 <br>
@@ -23,7 +23,7 @@ Most of the Women Who Code - London community activity is organized into 3 areas
 
 ### Special Interest Groups
 
-| Name | Label | Point of Contact| Slack | 
+| Name | Label | Point of Contact| Slack |
 |------|-------|--------|---------|
 |[Devops](resources/devops/README.md)|[sig/devops](https://github.com/WomenWhoCode/WWCode-London/labels/sig%2Fdevops)|* [Bhawana Haritwal](https://github.com/bharitwal)|[#devops](https://wwcodelondon.slack.com/archives/C040ZQEMS3D)|
 |[Machine Learning](resources/machine-learning/README.md)|[sig/machine-learning](https://github.com/WomenWhoCode/WWCode-London/labels/sig%2Fmachine-learning)|* [Ying Liu](https://github.com/sophia172) | [machine_learning](https://wwcodelondon.slack.com/archives/C0320QG5TDL)|
@@ -33,12 +33,8 @@ Most of the Women Who Code - London community activity is organized into 3 areas
 
 ### Other Volunteering Opportunities
 
-| Name | Label | Point of Contact| Slack | 
+| Name | Label | Point of Contact| Slack |
 |------|-------|--------|---------|
 |Blogs|[volunteering/blogs](https://github.com/WomenWhoCode/WWCode-London/labels/volunteering%2Fblogs)|* [Nadia Zhuk](https://github.com/beetlehope)| private|
 |Bookclub|[volunteering/bookclub](https://github.com/WomenWhoCode/WWCode-London/labels/volunteering%2Fbookclub)|* [Sumeyya Javaid](https://github.com/j4sum)| [#bookclub](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)|
 |Social Media|[volunteering/social-media](https://github.com/WomenWhoCode/WWCode-London/labels/volunteering%2Fsocial-media)|* [Ayla Cura](https://github.com/aylacura)| none |
-
-
-
-

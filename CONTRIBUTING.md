@@ -121,21 +121,25 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
     git submodule add $REPO_URL
     ```
 2. Upload the event graphic to the [images](docs/images) directory if its a one-off event.
-3. For programs special interest groups or programs supported by the community , Eg: machine-learning, devops, mock-behavioral-interview upload the event image under resources/[program/special-interest-group]/images 
+3. For programs special interest groups or programs supported by the community , Eg: machine-learning, devops, mock-behavioral-interview upload the event image under resources/[program/special-interest-group]/images
 
-4. Copy and paste a new table entry **at the top** in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting. 
-<br> 
+4. Copy and paste a new table entry **at the top** in the [README](README.md#event-resources). Fill in the applicable details. **Be sure to double check everything was updated.** Also be mindful of style and formatting.
+<br>
 
 
     ```markdown
       <tr>
       <td style="border: none;" align="left" width="20%"><a href="$REPO_URL"><img alt="EVENT_TITLE" align="left" src="images/IMAGE_NAME"/>&nbsp;</td>
-      <td colspan="3"><b>EVENT_TITLE</b> 
+      <td colspan="3"><b>EVENT_TITLE</b>
         <br><br>
              ** EVENT_DESCRIPTION **
-              [Slides & Materials](SLIDE_LINK), (MAT_LINK) <br/><br/>
-              [Video Recording](VIDEO_LINK)     <br/><br/>       
-        <br><br> 
+
+               <br><br>
+               <em>- SPEAKER_NAME & SPEAKER_TITLE </em>
+
+               * [Slides & Materials](SLIDE_LINK)
+               * [Video Recording](VIDEO_LINK)    
+               * [Slack Channel](https://wwcodelondon.slack.com/archives/SLACK_CHANNEL_ID)
       <em>- SPEAKER_NAME & SPEAKER_TITLE </em></td>
       </tr>
     ```
@@ -156,11 +160,13 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 
     g) Update the `SPEAKER_NAME` & `SPEAKER_TITLE`  
 
+    h) Update the `SLACK_CHANNEL_ID` from Slack workspace
+
 
 
 ## Reporting issues OR suggesting changes/features to the existing repo:
 
-1. [Create An Issue](https://github.com/WomenWhoCode/WWCode-London/issues) with the details of the changes / new features that you think would benefit the community. 
+1. [Create An Issue](https://github.com/WomenWhoCode/WWCode-London/issues) with the details of the changes / new features that you think would benefit the community.
 2. A repository owner will review the issue and provide feedback.
 
 
@@ -181,14 +187,14 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 ## Find something to work on
 
 The first step to getting starting contributing is to find something
-to work on. Help is always welcome, and no contribution is too small! 
+to work on. Help is always welcome, and no contribution is too small!
 
 Here are some things you can do today to get started contributing:
 
-1. You can browse the issues labeled as [help wanted](https://github.com/WomenWhoCode/WWCode-London/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and [good first issue](https://github.com/WomenWhoCode/WWCode-London/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to see who is looking for help. 
+1. You can browse the issues labeled as [help wanted](https://github.com/WomenWhoCode/WWCode-London/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and [good first issue](https://github.com/WomenWhoCode/WWCode-London/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to see who is looking for help.
 
-The `good first issue` label also indicates that Women Who Code - London Members have committed to providing extra assistance for new 
-contributors. 
+The `good first issue` label also indicates that Women Who Code - London Members have committed to providing extra assistance for new
+contributors.
 
 ## Best practices
 
@@ -197,7 +203,7 @@ contributors.
 - Make sure you don't include `@mentions` or `fixes` keywords in your git commit messages. These should be included in the PR body instead.
 - When you make a PR for small change (such as fixing a typo, style change, or grammar fix), please squash your commits so that we can maintain a cleaner git history.
 - Make sure you include a clear and detailed PR description explaining the reasons for the changes, and ensuring there is sufficient information for the reviewer to understand your PR.
-- Additional Readings: 
+- Additional Readings:
     - [chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
     - [github.com/blog/1506-closing-issues-via-pull-requests ](https://github.com/blog/1506-closing-issues-via-pull-requests)
     - [davidwalsh.name/squash-commits-git ](https://davidwalsh.name/squash-commits-git)
