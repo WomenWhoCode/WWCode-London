@@ -16,7 +16,7 @@ If you have resources you would like to share from your event or resources you t
 6. 🔧 Send a pull request from your fork's branch to our `main` branch
 7. 🎉 Get your pull request approved - success!
 
-## ⭐ HOW TO MAKE A PULL REQUEST:
+## ⭐ How To Make A Pull Request:
 
 **1.** Start by making a Fork of the [**WWCode-London**](https://github.com/WomenWhoCode/WWCode-London) repository. Click on the <a href="https://github.com/WomenWhoCode/WWCode-London/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
@@ -133,14 +133,6 @@ git push origin YourBranchName
     h) Update the `SLACK_CHANNEL_ID` from Slack workspace
 
 
-
-## Reporting issues OR suggesting changes/features to the existing repo:
-
-1. In order to discuss changes, you are welcome to [open an issue](https://github.com/WomenWhoCode/WWCode-London/issues) about what you would like to contribute. Enhancements are always encouraged and appreciated.
-2. A repository owner will review the issue and provide feedback.
-## All the best! 🥇
-
-
 ## Adding New Program / Special Interest Group Resources
 
 1. Create a new folder under `resources` with a good descriptive name for the program/ speacial interest group you are sharing.
@@ -191,3 +183,10 @@ contributors.
     - [chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
     - [github.com/blog/1506-closing-issues-via-pull-requests ](https://github.com/blog/1506-closing-issues-via-pull-requests)
     - [davidwalsh.name/squash-commits-git ](https://davidwalsh.name/squash-commits-git)
+
+
+## Reporting issues OR suggesting changes/features to the existing repo:
+
+1. In order to discuss changes, you are welcome to [open an issue](https://github.com/WomenWhoCode/WWCode-London/issues) about what you would like to contribute. Enhancements are always encouraged and appreciated.
+2. A repository owner will review the issue and provide feedback.
+## All the best! 🥇
