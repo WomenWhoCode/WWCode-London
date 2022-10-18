@@ -34,6 +34,63 @@ Join our community conversations!
 - [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
 - [Meetup](https://www.meetup.com/women-who-code-london/)
 
+## Educational Programmes
+<br>
+
+Since Covid-19, WWCode London developed three fantasic programmes to help you learn on-line and for free!
+
+
+<table style= "background-color: transparent; border-color: transparent;">
+<tbody>
+
+<!-- Algo&Data Structure -->
+<tr>
+<td colspan="3"><b>
+
+[Algorithms & Data Structure](https://www.youtube.com/watch?v=6XVZvDy49bE&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E)
+</b>
+<td>
+
+- Data Structures 101
+- Understanding Algorithmic Complexity. Big O Notation
+- Algorithms Track: Arrays, Linked Lists and Hash Tables
+- Queues and Stacks
+- Basic Algorithms on Strings
+- Sorting and Searching Algorithms
+- Greedy Algorithms
+- Trees and Graphs
+- Recursion vol. 1. Divide-and-conquer and Dynamic Programming
+- Recursion vol. 2. Dynamic Programming and Memoization
+- Algorithms Track: Sliding Window.
+- Panel Discussion "Interview Tips and
+
+
+<!-- Object Oriented Programming -->
+<tr>
+<td colspan="3"><b>
+
+[Object Oriented Programming](https://www.youtube.com/watch?v=NK-wieGZRkg&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7)</b>
+<td>
+
+- Introduction
+- SOLID principles
+- Creational Patterns
+- Behavioural Patterns
+
+<tr>
+<td colspan="3"><b>
+
+[Machine Learning 101](https://youtube.com/playlist?list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh)</b>
+
+<td>
+
+- Session 1. Setup and Popular Tools
+- Session 2. Algorithms
+- Session 3: Naïve Bayes
+
+</tbody>
+</table>
+<br>
 
 ## Event Resources
 
