@@ -14,6 +14,4 @@ New to front-end development? Start here.
 |:-------------------------------------------------------------------------------------------------------|:----------------------------|
 | [HTML](https://www.w3schools.com/html/default.asp)                                                     | Hypertext Markup Language   |
 | [CSS](https://www.w3schools.com/css/css_intro.asp)                                                     | Cascading Style Sheets      |
-| [csrf](https://github.com/gofiber/fiber/tree/master/middleware/csrf)                                   | Protect from CSRF exploits. |
-
 
