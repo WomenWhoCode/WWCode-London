@@ -7,7 +7,7 @@
 <tbody>
 
 <tr>
-<td style="1px solid black" align="left" width="20%"><img alt="Modern Front End Ecosystem" align="left" src="resources/frontend/images/ivan-kolotilov.png"/>&nbsp;</td>
+<td style="1px solid black" align="left"><img alt="Modern Front End Ecosystem" align="left" src="./images/ivan-kolotilov.png"/>&nbsp</td>
 
 <td colspan="3"><b>
 
