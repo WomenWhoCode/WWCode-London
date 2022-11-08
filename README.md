@@ -2,6 +2,7 @@
 
 - [Women Who Code London - Network](#women-who-code-london---network)
 - [Social](#social)
+- [Educational Programmes](#educational-programmes)
 - [Event Resources](#event-resources)
     - [Recent events:](#recent-events)
 - [About Women Who Code](#about-women-who-code)
@@ -10,7 +11,7 @@
 - [Community](#community)
   - [Programs](#programs)
   - [Special Interest Groups](#special-interest-groups)
-  - [Other Volunteering Opporuities](#other-volunteering-opporuities)
+  - [Other Volunteering Opportunities](#other-volunteering-opportunities)
 - [Credits](#credits)
 
 Women Who Code London - Network
@@ -104,6 +105,23 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
+
+<!-- Mock-Interviews: Algorithms & Data Structure -->
+<tr>
+<td style="1px solid black" align="left" width="20%"><img alt="Mock-Interviews: Algorithms & Data Structure" align="left" src="resources/mock-interviews/mock-code-interview/images/image.webp"/>&nbsp;</td>
+<td colspan="3"><b>Workshop Mock-Interviews: Algorithms & Data Structure</b>
+<br><br>
+Mock Interviews are very helpful in the way to preparing for real interviews! Women Who Code London help participant of the community to organise mock interviews and practise tackling interview with each other!
+
+In this session, we will share the guidelines to go through coding interviews and solving Algorithms and Data Structures problems!
+
+<br>
+<em>- by Anna Araslanova </em>
+<br><br>
+
+- [Materials](resources/mock-interviews/mock-code-interview)
+- [Video Recording](https://www.youtube.com/watch?v=A8AvkOSvUpM)
+- [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
 <!-- Mock Behavioral Interview -->
 <tr>
