@@ -1,18 +1,18 @@
 # **BOOK CLUB**
 
-The official book club repo for WWCode-London 📚 
+The official book club repo for WWCode-London 📚
 
 We love deep discussions and delightful insights!
 
-🗨️ It helps to have different perspectives and ideas regarding the topics covered in the books 💬 
+🗨️ It helps to have different perspectives and ideas regarding the topics covered in the books 💬
 
 Participating in our book club is a fantastic way to read concisely and take more experience from the books! 📖
 
-## CURRENTLY READING
+## Currently Reading
 
-- Clean Code A Handbook of Agile Software Craftsmanship by Robert C. Martin 💻
+- [Clean Code A Handbook of Agile Software Craftsmanship](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf) by Robert C. Martin
 
-### PAST BOOKS
+## Past Books
 
 <table>
 <tbody>
@@ -23,10 +23,11 @@ Participating in our book club is a fantastic way to read concisely and take mor
 <td>
 The Grit Factor by Shannon Huffman Polson
 <td>
-What does it take for women to succeed in a male-dominated world? The Grit Factor. In writing The Grit Factor, Polson made it her mission to connect with an elite pack of tough, impressive female iconoclasts who shared with her their candid stories of combat and career. This slate of decorated leaders includes Heather Penney, one of the first female F-16 pilots, who was put on a suicide mission for 9/11; General Ann Dunwoody, the first female four-star general in the Army; Amy McGrath, the first female Marine to fly the F/A-18 in combat and a 2020 candidate for the US Senate—and dozens of other unstoppable women who got there first, including Polson herself.
+What does it take for women to succeed in a male-dominated world? The Grit Factor. In writing The Grit Factor, Polson made it her mission to connect with an elite pack of tough, impressive female iconoclasts who shared with her their candid stories of combat and career.
 <td>
- [Blogpost](https://iren-kamalova.medium.com/grit-factor-cc597dbf107f)
+<b>[Grit Factor](https://iren-kamalova.medium.com/grit-factor-cc597dbf107f)</b>
 <tr>
+
   
 <tr>
 <td><b>
@@ -34,26 +35,27 @@ What does it take for women to succeed in a male-dominated world? The Grit Facto
 <td>
 Radical Candor by Kim Scott               
 <td>
-Crucial Conversations: Tools for Talking When Stakes are High discusses how to handle disagreements and high-stakes communication. It is written on the premise that when you are stuck in any situation – whether it’s at home or work – there is a crucial conversation keeping you from accomplishing the desired results. If you can learn to speak up in these crucial moments effectively, then you can accomplish the results you are after.<td>
-<tr>
-
-<tr>
-<td><b>
-  <img src="https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529038347.jpg" />
-<td>
-Crucial Conversations by Kim Scott               
-<td>
-The Grit Factor by Shannon Huffman Polson | What does it take for women to succeed in a male-dominated world? The Grit Factor. In writing The Grit Factor, Polson made it her mission to connect with an elite pack of tough, impressive female iconoclasts who shared with her their candid stories of combat and career. This slate of decorated leaders includes Heather Penney, one of the first female F-16 pilots, who was put on a suicide mission for 9/11; General Ann Dunwoody, the first female four-star general in the Army; Amy McGrath, the first female Marine to fly the F/A-18 in combat and a 2020 candidate for the US Senate—and dozens of other unstoppable women who got there first, including Polson herself.
+Radical candor is the sweet spot between managers who are obnoxiously aggressive on one side and ruinously empathetic on the other. It’s about providing guidance, which involves a mix of praise as well as criticism—delivered to produce better results and help employees achieve.
 <td>
 <tr>
 
 <tr>
 <td><b>
-  <img src="https://cdn.waterstones.com/bookjackets/large/9781/2604/9781260474183.jpg" />
+   <img src="https://cdn.waterstones.com/bookjackets/large/9781/2604/9781260474183.jpg" />
+<td>
+Crucial Conversations by Joseph Grenny & Kerry Patterson                  
+<td>
+Crucial Conversations: Tools for Talking When Stakes are High discusses how to handle disagreements and high-stakes communication. It is written on the premise that when you are stuck in any situation – whether it’s at home or work – there is a crucial conversation keeping you from accomplishing the desired results. If you can learn to speak up in these crucial moments effectively, then you can accomplish the results you are after.
+<td>
+<tr>
+
+<tr>
+<td><b>
+  <img src="https://cdn.waterstones.com/bookjackets/large/9781/6103/9781610392761.jpg" />
 <td>
 The Culture Map by Erin Meyer               
 <td>
-| In The Culture Map, INSEAD professor Erin Meyer is your guide through this subtle, sometimes treacherous terrain in which people from starkly different backgrounds are expected to work harmoniously together. She provides a field-tested model for decoding how cultural differences impact international business, and combines a smart analytical framework with practical, actionable advice.                               
+In The Culture Map, INSEAD professor Erin Meyer is your guide through this subtle, sometimes treacherous terrain in which people from starkly different backgrounds are expected to work harmoniously together. She provides a field-tested model for decoding how cultural differences impact international business, and combines a smart analytical framework with practical, actionable advice.                               
 <td>
 <tr>
 
@@ -63,8 +65,9 @@ The Culture Map by Erin Meyer
 <td>
 Quiet by Susan Cain                                     
 <td>
-In Quiet, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts—from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions. Passionately argued, superbly researched, and filled with indelible stories of real people, Quiet has the power to permanently change how we see introverts and, equally important, how they see themselves. 
+In Quiet, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts—from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions.
 <td>
+<b>[Quiet](https://www.womenwhocode.com/blog/quiet-book-club-wwcode-london)</b>
 <tr>
 
 <tr>
@@ -79,14 +82,17 @@ In The Myth of The Nice Girl, Fran Hauser deconstructs the negative perception o
 
 </tbody>
 </table>
- 
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-#### FOLLOW US ON
+## Social
 
-- LinkedIn - https://www.linkedin.com/company/wwcodelondon/events/
+Join our community conversations!
 
-- Meetup - https://meetu.ps/c/1Cj0v/yRb71/d
+- [Slack](https://join.slack.com/t/wwcodelondon/shared_invite/enQtNjgwNjc4Nzk1MTQxLTU0NjkwMDBkYWIwZjVmYzBjZDkzMzJiM2YyYzU1ODdhZDM3YzU2ZjMyNzE4NWZhNTE0YTRlZGU5NmI1NTkwMDY)
+- [Twitter](https://twitter.com/WWCodeLondon)
+- [Facebook](https://www.facebook.com/wwcodelondon/)
+- [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Meetup](https://www.meetup.com/women-who-code-london/)
