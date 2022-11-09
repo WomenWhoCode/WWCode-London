@@ -11,8 +11,8 @@ Mock Interviews are very helpful in the way to preparing for real interviews! Wo
     - [Preparation Stage](#preparation-stage)
     - [Feedback](#feedback)
   - [Possible Questions](#possible-questions)
-    - [How will be done the match process?](#how-will-be-done-the-match-process)
-    - [Is required any level of knowleadge](#is-required-any-level-of-knowleadge)
+    - [How will the match process be done?](#how-will-the-match-process-be-done)
+    - [Does it require any level of knowledge or experience?](#does-it-require-any-level-of-knowledge-or-experience)
     - [How to prepare for the mock interview?](#how-to-prepare-for-the-mock-interview)
 
 ## Process
@@ -58,17 +58,17 @@ After the interview, you’ll each provide feedback on to help each other improv
   
 ## Possible Questions
 
-### How will be done the match process?
+### How will the match process be done?
 
 The matches will be based on the programming language, level and the type of interview you are interested in.
 Then as final factor the time availability.
 
-### Is required any level of knowleadge
+### Does it require any level of knowledge or experience?
 
 No, there is no restriction
 
 ### How to prepare for the mock interview?
 
-We suggest you to whatch the [workshops](#preparation-stage).
+We suggest you watch the [workshops](#preparation-stage).
 
 If you want to be prepared for the Algorithms & Data Structure interview, try to do some examples from [leetcode, easy questions](https://leetcode.com/problemset/algorithms/?difficulty=EASY&page=1).
