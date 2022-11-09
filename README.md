@@ -9,7 +9,7 @@
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
 - [Community](#community)
-  - [Programs](#programs)
+  - [Programmes](#programmes)
   - [Special Interest Groups](#special-interest-groups)
   - [Other Volunteering Opportunities](#other-volunteering-opportunities)
 - [Credits](#credits)
@@ -38,56 +38,208 @@ Join our community conversations!
 ## Educational Programmes
 <br>
 
-Since Covid-19, WWCode London developed three fantasic programmes to help you learn on-line and for free!
-
+Since Covid-19, WWCode London developed three fantastic programmes to help you learn on-line and for free!
 
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
+<tr>
+  <th>Programme</th> <th>Session</th> <th>Speaker(s)</th>
+</tr>
 
 <!-- Algo&Data Structure -->
 <tr>
-<td colspan="3"><b>
+  <th rowspan="12" align="left">
 
-[Algorithms & Data Structure](https://www.youtube.com/watch?v=6XVZvDy49bE&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E)
-</b>
+  [Algorithms & Data Structure](https://www.youtube.com/watch?v=6XVZvDy49bE&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E)</th>
+
+  <td>
+
+  [Data Structures 101](https://www.youtube.com/watch?v=6XVZvDy49bE&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=1)</td>
+
+  <td>
+
+  [Abhipsa Mishra](https://www.linkedin.com/in/abhipsa-mishra-684a4326/?originalSubdomain=uk)</td>
+</tr>
+
+<tr>
 <td>
 
-- Data Structures 101
-- Understanding Algorithmic Complexity. Big O Notation
-- Algorithms Track: Arrays, Linked Lists and Hash Tables
-- Queues and Stacks
-- Basic Algorithms on Strings
-- Sorting and Searching Algorithms
-- Greedy Algorithms
-- Trees and Graphs
-- Recursion vol. 1. Divide-and-conquer and Dynamic Programming
-- Recursion vol. 2. Dynamic Programming and Memoization
-- Algorithms Track: Sliding Window.
-- Panel Discussion "Interview Tips and
+[Understanding Algorithmic Complexity. Big O Notation](https://www.youtube.com/watch?v=Qbb57_HIjqk&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=2)</td>
+<td>
 
+[Irina Kamalova](https://www.linkedin.com/in/irina-kamalova/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Arrays, Linked Lists and Hash Tables](https://www.youtube.com/watch?v=qug9R7TYuKw&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=3)</td>
+<td>
+
+[Jade Gordon](https://www.linkedin.com/in/jade-gordon/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Queues and Stacks](https://www.youtube.com/watch?v=L4o4dToADgE&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=4)</td>
+<td>
+
+[Arai Sabyrzhan](https://www.linkedin.com/in/araisabyrzhan/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Basic Algorithms on Strings](https://www.youtube.com/watch?v=KL7Wlzu_H3U&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=5)</td>
+<td>
+
+[Abhipsa Mishra](https://www.linkedin.com/in/abhipsa-mishra-684a4326/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Sorting and Searching Algorithms](https://www.youtube.com/watch?v=Tiy9YNvVawc&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=6)</td>
+<td>
+
+[Elena Andreeva](https://www.linkedin.com/in/elena-andreeva-95bba5a0/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Greedy Algorithms](https://www.youtube.com/watch?v=SDca_Wq8GJQ&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=7)</td>
+<td>
+
+[Jamica Ortiz](https://www.linkedin.com/in/jortizbr/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Trees and Graphs](https://www.youtube.com/watch?v=zuOtOeEbfgc&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=8)</td>
+<td>
+
+[Alex Mikhailova](https://www.linkedin.com/in/alexmikhailova/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Recursion vol. 1. Divide-and-conquer and Dynamic Programming](https://www.youtube.com/watch?v=J8HfG7EdPGg&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=9)</td>
+<td>
+
+[Julia Martemyanova](https://www.linkedin.com/in/julia-martemyanova/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Recursion vol. 2. Dynamic Programming and Memoization](https://www.youtube.com/watch?v=7EP8d_YyXew&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=10)</td>
+<td>
+
+[Irina Kamalova](https://www.linkedin.com/in/irina-kamalova/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Sliding Window](https://www.youtube.com/watch?v=WPe8sMF-l9o&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=11)</td>
+<td>
+
+[Sarah Nicole Usher](https://www.linkedin.com/in/sarah-nicole-usher/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Panel Discussion "Interview Tips and Tricks"](https://www.youtube.com/watch?v=xP42EGzNb2w&list=PLVcEZG2JPVhdzf4cgDxH2TK4U1uEfaF8E&index=12)</td>
+<td>
+
+ ✪ [Jamica Ortiz](https://www.linkedin.com/in/jortizbr/)
+
+ ✪ [Abhipsa Mishra](https://www.linkedin.com/in/abhipsa-mishra-684a4326/)
+
+ ✪ [Arai Sabyrzhan](https://www.linkedin.com/in/araisabyrzhan/)
+
+ ✪ [Irina Kamalova](https://www.linkedin.com/in/irina-kamalova/)</td>
+</tr>
 
 <!-- Object Oriented Programming -->
-<tr>
-<td colspan="3"><b>
-
-[Object Oriented Programming](https://www.youtube.com/watch?v=NK-wieGZRkg&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7)</b>
-<td>
-
-- Introduction
-- SOLID principles
-- Creational Patterns
-- Behavioural Patterns
 
 <tr>
-<td colspan="3"><b>
+  <th rowspan="4" align="left">
 
-[Machine Learning 101](https://youtube.com/playlist?list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh)</b>
+  [Object Oriented Programming](https://www.youtube.com/watch?v=NK-wieGZRkg&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7)</th>
+  <td>
 
+  [Introduction](https://www.youtube.com/watch?v=NK-wieGZRkg&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7)</td>
+  <td>
+
+  [Jamica Ortiz](https://www.linkedin.com/in/jortizbr/)</td>
+</tr>
+
+<tr>
 <td>
 
-- Session 1. Setup and Popular Tools
-- Session 2. Algorithms
-- Session 3: Naïve Bayes
+[SOLID principles](https://www.youtube.com/watch?v=erPk8Y5nw6k&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7&index=2)</td>
+<td>
+
+[Nadia Zhuk](https://www.linkedin.com/in/beetlehope/)</td>
+</tr>
+
+
+<tr>
+<td>
+
+[Creational Patterns](https://www.youtube.com/watch?v=QK3DQ1q9lSE&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7&index=3)</td>
+<td>
+
+[Abhipsa Mishra](https://www.linkedin.com/in/abhipsa-mishra-684a4326/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Behavioural Patterns](https://www.youtube.com/watch?v=6nTnsoW12lY&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7&index=4)</td>
+<td>
+
+[Irina Kamalova](https://www.linkedin.com/in/irina-kamalova/)</td>
+</tr>
+
+<!-- Machine Learning 101 -->
+
+<tr>
+  <th rowspan="4" align="left">
+
+  [Machine Learning 101](https://www.youtube.com/playlist?list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh)</th>
+  <td>
+
+  [Intro](https://www.youtube.com/watch?v=9ODDCa5Ukr4&list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh&index=1)</td>
+  <td rowspan="4">
+
+  [Ying Liu](https://www.linkedin.com/in/yingliu-data/)</td>
+</tr>
+
+<tr>
+<td>
+
+[Setup and Popular Tools](https://www.youtube.com/watch?v=pVzwWe9pKfA&list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh&index=4)</td>
+</tr>
+
+<tr>
+<td>
+
+[Algorithms](https://www.youtube.com/watch?v=NBkNI1WgW3A&list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh&index=3)</td>
+</tr>
+
+
+<tr>
+<td>
+
+[Naïve Bayes](https://www.youtube.com/watch?v=iV_r30gcrDw&list=PLVcEZG2JPVhfn19IBC1ZVQHa-JEUxdMDh&index=2)</td>
+</tr>
 
 </tbody>
 </table>
@@ -203,9 +355,9 @@ We welcome your contributions! :two_hearts: To contribute to this repo, follow t
 
 ## Community
 
-### Programs
+### Programmes
 
-The Women Who Code London community succesfully runs multiple programs to support our members in their tech journey. Please refer to the current list of programs in our [community guide](community.md).
+The Women Who Code London community successfully runs multiple programs to support our members in their tech journey. Please refer to the current list of programs in our [community guide](community.md).
 
 ### Special Interest Groups
 

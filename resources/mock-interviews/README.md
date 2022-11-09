@@ -16,6 +16,7 @@ Mock Interviews are very helpful in preparing for real interviews! Women Who Cod
     - [Does it require any level of knowledge or experience?](#does-it-require-any-level-of-knowledge-or-experience)
     - [How to prepare for the mock interview?](#how-to-prepare-for-the-mock-interview)
     - [What happen if there is no confirmation from the Secondary?](#what-happen-if-there-is-no-confirmation-from-the-secondary)
+  - [Events](#events)
 
 ## Process
 
@@ -66,7 +67,7 @@ Primary should organise an interview.**
 ### Feedback
 
 After the interview, you’ll each provide feedback on to help each other improve.
-  
+
 ## Possible Questions
 
 ### How will the match process be done?
@@ -87,3 +88,57 @@ If you want to be prepared for the Algorithms & Data Structure interview, try to
 ### What happen if there is no confirmation from the Secondary?
 
 Please reach out in the [slack channel #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) describing the situation and ask to find another available person.
+
+## Events
+
+<table style= "background-color: transparent; border-color: transparent;">
+<tbody>
+
+<tr>
+  <th>session</th> <th>speaker(s)</th>
+</tr>
+
+<tr>
+  <th align="left">
+
+  [Mock Behavioral Interview Program](https://www.youtube.com/watch?v=nWHQ0g8sorI&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=42)</th>
+
+  <td>
+
+  [Bhawana Haritwal](https://www.linkedin.com/in/bhawanaharitwal/)</td>
+</tr>
+
+<tr>
+  <th align="left">
+
+  [Mock-Interviews: Algorithms & Data Structure Coding Interview](https://www.youtube.com/watch?v=A8AvkOSvUpM&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=48)</th>
+
+  <td>
+
+  ✪ [Anna Araslanova](https://www.linkedin.com/in/anna-araslanova/)
+
+  ✪ [Irina Kamalova](https://www.linkedin.com/in/irina-kamalova/)
+  </td>
+</tr>
+
+<tr>
+  <th align="left">
+
+  [Interviewing in Tech: Tips and Tricks](https://www.youtube.com/watch?v=uVcbw2bRX_I&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=39)</th>
+
+  <td>
+
+  ✪ [Mincy George](https://www.linkedin.com/in/mincygeorge/)
+
+  ✪ [Serena Fritsch](https://www.linkedin.com/in/serenafritsch/)
+
+  ✪ [Alex Mikhailova](https://www.linkedin.com/in/alexmikhailova/)
+
+  ✪ [Sarah Cooper](https://www.linkedin.com/in/sarahcoopintercom/)
+
+  ✪ [Nadia Zhuk](https://www.linkedin.com/in/beetlehope/)
+  </td>
+</tr>
+
+</tbody>
+</table>
