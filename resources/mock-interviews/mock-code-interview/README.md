@@ -1,6 +1,6 @@
 # Mock Algorithms & Data Structure Coding Interview
 
-Mock Interviews are very helpful in the way to preparing for real interviews! Women Who Code London help participant of the community to organise mock interviews and practise tackling interview with each other!
+Mock Interviews are very helpful in preparing for real interviews! Women Who Code London help participant of the community to organise mock interviews and practise tackling interview with each other!
 
 - Check the workshop [Mock-Interviews: Algorithms & Data Structure](https://www.youtube.com/watch?v=nWHQ0g8sorI).
 - Suggestion of challenges for the mock interview from [Leetcode algorithms level easy](https://leetcode.com/problemset/algorithms/?difficulty=EASY&page=1)
