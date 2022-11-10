@@ -1,7 +1,7 @@
 
 # Mock Interview
 
-Mock Interviews are very helpful in the way to preparing for real interviews! Women Who Code London help participant of the community to organise mock interviews and practise tackling interview with each other!
+Mock Interviews are very helpful in preparing for real interviews! Women Who Code London helps participants of the community to organise mock interviews and practise tackling interviews with each other!
 
 - [Mock Interview](#mock-interview)
   - [Process](#process)
