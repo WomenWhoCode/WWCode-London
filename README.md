@@ -119,8 +119,9 @@ In this session, we will share the guidelines to go through coding interviews an
 <em>- by Anna Araslanova </em>
 <br><br>
 
-- [Materials](resources/mock-interviews/mock-code-interview)
+- [Presentation](https://docs.google.com/presentation/d/1-FiCp8KOQCjUmwz05JADm8umNU3TljRTPyAzs70bGJI/)
 - [Video Recording](https://www.youtube.com/watch?v=A8AvkOSvUpM)
+- [Materials](resources/mock-interviews/mock-code-interview)
 - [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
 <!-- Mock Behavioral Interview -->
