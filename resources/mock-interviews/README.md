@@ -19,7 +19,7 @@ Mock Interviews are very helpful in preparing for real interviews! Women Who Cod
 
 ### Joining Stage
 
-You have to [complete the form](TODO_GET_LINK) before the deadline mentioned in [event](TODO_GET_EVENT_LINK)
+You have to [complete the form](https://forms.gle/7Rp6E1Ncj6gzS1fH6) before the deadline mentioned in [event](TODO_GET_EVENT_LINK)
 
 Pick up among:
 
