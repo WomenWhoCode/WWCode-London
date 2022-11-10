@@ -43,7 +43,7 @@ Primary should organise an interview.**
   - Send a 30 mins meeting invite for the interview
 
 - Secondary
-  - Agree the date-time and preferred meeting tool (zoom, google meet, webex, MS teams, etc) with the candidate
+  - Agree on the date-time and preferred meeting tool (zoom, google meet, webex, MS teams, etc) with the candidate
   - Accept the meeting invite sent by the candidate
 
 ### Preparation Stage
