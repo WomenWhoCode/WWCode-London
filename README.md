@@ -111,7 +111,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 <td style="1px solid black" align="left" width="20%"><img alt="Mock-Interviews: Algorithms & Data Structure" align="left" src="resources/mock-interviews/mock-code-interview/images/image.webp"/>&nbsp;</td>
 <td colspan="3"><b>Workshop Mock-Interviews: Algorithms & Data Structure</b>
 <br><br>
-Mock Interviews are very helpful in the way to preparing for real interviews! Women Who Code London help participant of the community to organise mock interviews and practise tackling interview with each other!
+Mock Interviews are very helpful in preparing for real interviews! Women Who Code London helps participants of the community to organise mock interviews and practise tackling interviews with each other!
 
 In this session, we will share the guidelines to go through coding interviews and solving Algorithms and Data Structures problems!
 
