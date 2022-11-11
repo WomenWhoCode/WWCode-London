@@ -5,6 +5,7 @@ Mock Interviews are very helpful in preparing for real interviews! Women Who Cod
 
 - [Mock Interview](#mock-interview)
   - [Process](#process)
+    - [Timeline](#timeline)
     - [Joining Stage](#joining-stage)
     - [Request Acceptance Stage](#request-acceptance-stage)
     - [Schedule Stage](#schedule-stage)
@@ -14,12 +15,21 @@ Mock Interviews are very helpful in preparing for real interviews! Women Who Cod
     - [How will the match process be done?](#how-will-the-match-process-be-done)
     - [Does it require any level of knowledge or experience?](#does-it-require-any-level-of-knowledge-or-experience)
     - [How to prepare for the mock interview?](#how-to-prepare-for-the-mock-interview)
+    - [What happen if there is no confirmation from the Secondary?](#what-happen-if-there-is-no-confirmation-from-the-secondary)
 
 ## Process
 
+### Timeline
+
+- Deadline for submission: 21st of November
+- Match Process: 22nd of November to 25th of November
+- Email Confirmations: 25th of November
+- Schedule Stage: 25th of November to 27th of November
+- Mock-interviews week: 28th of November to 4th of December
+
 ### Joining Stage
 
-You have to [complete the form](https://forms.gle/7Rp6E1Ncj6gzS1fH6) before the deadline mentioned in [event](TODO_GET_EVENT_LINK)
+You have to [complete the form](https://forms.gle/7Rp6E1Ncj6gzS1fH6) before the deadline.
 
 Pick up among:
 
@@ -33,24 +43,25 @@ Pick up among:
 
 ### Schedule Stage
 
-Once you receive a match, you should schedule the meeting with your opponent (Google meet, zoom, etc.)
+Once you receive a match, you should schedule the meeting and the preferred meeting tool (zoom, google meet, webex, MS teams, etc).
 
 **During mock-interview, you’re playing both roles: as candidate, and as interviewer. You'll be marked as Primary or Secondary.
 Primary should organise an interview.**
 
 - Primary
-  - Once a request has been accepted by the interviewer, the candidate should agree the date-time and the preferred meeting tool (zoom, google meet, webex, MS teams, etc) for the mock behvaioural interview with the interviewer.
-  - Send a 30 mins meeting invite for the interview
+  - Once a request has been accepted by the interviewer, the secondary should agree the date-time and the preferred meeting tool.
+  - Send a 30 mins meeting invite for the Secondary
 
 - Secondary
-  - Agree on the date-time and preferred meeting tool (zoom, google meet, webex, MS teams, etc) with the candidate
-  - Accept the meeting invite sent by the candidate
+  - Agree on the date-time and preferred meeting tool
+  - Accept the meeting invite sent by the Primary
 
 ### Preparation Stage
 
 - Have a look in the guidelines for [Mock-Behaviour Interview](/resources/mock-interviews/mock-behavioral-interview) and [Mock-Coding Interview - Algorithms & Data Structure](/resources/mock-interviews/mock-code-interview).
-- Check the Workshops for [Behavioral Interview](https://www.youtube.com/watch?v=nWHQ0g8sorI) and [Mock-Interviews: Algorithms & Data Structure](https://www.youtube.com/watch?v=nWHQ0g8sorI)
-- [Join Women Who Code - London #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel
+- Check the [Behavioral Interview Workshop](https://www.youtube.com/watch?v=nWHQ0g8sorI)
+- Check the [Mock-Interviews: Algorithms & Data Structure Workshop](https://www.youtube.com/watch?v=nWHQ0g8sorI)
+- Join [Women Who Code - London #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel
 
 ### Feedback
 
@@ -72,3 +83,7 @@ No, there is no restriction
 We suggest you watch the [workshops](#preparation-stage).
 
 If you want to be prepared for the Algorithms & Data Structure interview, try to do some examples from [leetcode, easy questions](https://leetcode.com/problemset/algorithms/?difficulty=EASY&page=1).
+
+### What happen if there is no confirmation from the Secondary?
+
+Please reach out in the [slack channel #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) describing the situation and ask to find another available person.
