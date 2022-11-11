@@ -29,7 +29,7 @@ Mock Interviews are very helpful in preparing for real interviews! Women Who Cod
 
 ### Joining Stage
 
-You have to [complete the form](https://forms.gle/7Rp6E1Ncj6gzS1fH6) before the deadline.
+You have to complete the form in [Women Who Code - London #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) before the deadline.
 
 Pick up among:
 
