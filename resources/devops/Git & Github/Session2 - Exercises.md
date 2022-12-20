@@ -1,7 +1,7 @@
 Session 2  - Git and Github Exercises
 ---
 
-Questions have been designed to be completed in the given sequence and is a continuation of exercises in [Session 1](Session1%20-%20Exercises.md)
+Questions have been designed to be completed in the given sequence and is a continuation of exercises in [Session 1](Session1%20-%20Exercises.md). All the files in the exercises refer to `.txt` files.
 
 1. Change directory to `git-workshop` and investigate the existing branches, commit history and status.
 

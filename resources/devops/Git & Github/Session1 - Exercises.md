@@ -1,7 +1,7 @@
 Session 1  - Git and Github Exercises
 ---
 
-Questions have been designed to be completed in the given sequence.
+Questions have been designed to be completed in the given sequence. All the files in the exercises refer to `.txt` files.
 
 1. Create a local directory on your computer named `git-workshop` and initialize it to be managed by git.
 
