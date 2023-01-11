@@ -28,8 +28,9 @@ Questions have been designed to be completed in the given sequence.
         touch .gitignore
         ```
         To ignore .log files we will add .log file  in .gitignore file which we created earlier.
+        
         ```bash
-        `*.log`
+        *.log
         ```
     </details>
 
