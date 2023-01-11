@@ -43,6 +43,7 @@ Questions have been designed to be completed in the given sequence.
         touch session1-file3.txt
         git commit -am "Add session1-file3"
         ```
+    </details>
 8. Log the commit history to show only commit id and the message.
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
 10. Investigate where the `HEAD` is pointing to.
