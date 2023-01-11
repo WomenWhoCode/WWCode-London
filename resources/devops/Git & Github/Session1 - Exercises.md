@@ -23,12 +23,14 @@ Questions have been designed to be completed in the given sequence.
     
     <details>
     <summary>Solution</summary>
-    
+
         ```bash
         touch .gitignore
         ```
         To ignore .log files we will add .log file  in .gitignore file which we created earlier.
+        ```bash
         `*.log`
+        ```
     </details>
 
 7. Add 3 more new files called `session1-file1`, `session1-file2`, `session1-file3`. Commit each of the above file as a separate commit.
