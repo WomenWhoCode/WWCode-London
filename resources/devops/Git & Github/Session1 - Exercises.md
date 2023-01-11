@@ -23,6 +23,7 @@ Questions have been designed to be completed in the given sequence.
     
     <details>
     <summary>Solution</summary>
+    
         ```bash
         touch .gitignore
         ```
@@ -69,7 +70,7 @@ Questions have been designed to be completed in the given sequence.
     git commit --amend -m "Update commit for session1-file3"
     ``` 
     </details>
-    
+
 10. Investigate where the `HEAD` is pointing to.
 11. Investigate all existing branches. Create a new branch `session1` and switch to it.
 12. Investigate all existing branches and `HEAD` now.
