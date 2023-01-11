@@ -21,16 +21,16 @@ Questions have been designed to be completed in the given sequence.
 5. Run commands to check the status and history of the repository.
 6. Add a gitignore file to not track any log files ending with `.log` in the repository.
     <details>
-            <summary>Solution</summary>
+    <summary>Solution</summary>
         ```bash
         touch .gitignore
-            ```
+        ```
         To ignore .log files we will add .log file  in .gitignore file which we created earlier.
         `*.log`
     </details>
 7. Add 3 more new files called `session1-file1`, `session1-file2`, `session1-file3`. Commit each of the above file as a separate commit.
     <details>
-    	<summary>Solution</summary>
+    <summary>Solution</summary>
         ```bash
         touch session1-file1.txt
         git commit -am "Add session1-file1"
