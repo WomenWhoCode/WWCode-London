@@ -29,6 +29,20 @@ Questions have been designed to be completed in the given sequence.
         `*.log`
     </details>
 7. Add 3 more new files called `session1-file1`, `session1-file2`, `session1-file3`. Commit each of the above file as a separate commit.
+    <details>
+    	<summary>Solution</summary>
+        ```bash
+        touch session1-file1.txt
+        git commit -am "Add session1-file1"
+        ```
+        ```bash
+        touch session1-file2.txt
+        git commit -am "Add session1-file2"
+        ```
+        ```bash
+        touch session1-file3.txt
+        git commit -am "Add session1-file3"
+        ```
 8. Log the commit history to show only commit id and the message.
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
 10. Investigate where the `HEAD` is pointing to.
