@@ -45,6 +45,13 @@ Questions have been designed to be completed in the given sequence.
         ```
     </details>
 8. Log the commit history to show only commit id and the message.
+    <details>
+    <summary>Solution</summary>
+        ```bash
+        git log --oneline
+        ```
+    </details>
+
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
 10. Investigate where the `HEAD` is pointing to.
 11. Investigate all existing branches. Create a new branch `session1` and switch to it.
