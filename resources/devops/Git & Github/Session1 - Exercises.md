@@ -20,6 +20,14 @@ Questions have been designed to be completed in the given sequence.
 4. Create a new file in `git-workshop` directory called `session1-exercise2`. Commit the file with a detailed description about the change.
 5. Run commands to check the status and history of the repository.
 6. Add a gitignore file to not track any log files ending with `.log` in the repository.
+    <details>
+            <summary>Solution</summary>
+        ```bash
+        touch .gitignore
+            ```
+        To ignore .log files we will add .log file  in .gitignore file which we created earlier.
+        `*.log`
+    </details>
 7. Add 3 more new files called `session1-file1`, `session1-file2`, `session1-file3`. Commit each of the above file as a separate commit.
 8. Log the commit history to show only commit id and the message.
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
