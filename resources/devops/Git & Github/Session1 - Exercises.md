@@ -24,9 +24,55 @@ Questions have been designed to be completed in the given sequence. All the file
 8. Log the commit history to show only commit id and the message.
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
 10. Investigate where the `HEAD` is pointing to.
+
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    cat .git/HEAD
+    ```
+    It will show which branch your HEAD point to.
+
+    To check where the HEAD is pointing to, use the reference path given as a result from previous command.
+    ```bash
+    cat .git/refs/heads/main
+    ```
+    </details>
+
 11. Investigate all existing branches. Create a new branch `session1` and switch to it.
+
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    git switch -c session1
+    ```
+    </details>
+
 12. Investigate all existing branches and `HEAD` now.
+
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    git branch
+    cat .git/HEAD
+    ```
+    </details>
+
 13. Add a new file `random` in `session1` branch and commit the changes. Investigate `HEAD`.
+
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    touch random.txt
+    git add .
+    git commit -m “add random file”
+    cat .git/refs/heads/session1
+    ```
+    </details>
+
 14. Create a new branch `feature1` from the branch `session1`. Switch to branch `feature1`. Investigate all existing branches and `HEAD` now.
 15. Delete `feature1` branch.
 16. Switch to `main`. Edit the file `session1-file1` in the `main` branch and add the name of the branch "MASTER" in the file. Stage and commit the changes made to the file.
